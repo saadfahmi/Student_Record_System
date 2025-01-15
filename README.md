@@ -1,6 +1,6 @@
- 📝 Student Record System
+ 📝 ##Student Record System
 
-This is a simple **Student Record System** written in C. It allows users to manage and store student records efficiently. The program demonstrates basic file handling, struct usage, and functions in C.
+**This is a simple Student Record System written in C. It allows users to manage and store student records efficiently. The program demonstrates basic file handling, struct usage, and functions in C**.
 
 ## ✨ Features
 
