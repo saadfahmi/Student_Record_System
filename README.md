@@ -22,7 +22,7 @@ This is a simple **Student Record System** written in C. It allows users to mana
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/<saadfahmi>/Student_Record_System.git
+   git clone https://github.com/saadfahmi/Student_Record_System.git
    cd Student_Record_System
    gcc Student_Record_System.c
    ./a.out
